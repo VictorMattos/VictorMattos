@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Victor Mattos 👋
+I'm Victor Mattos,
 
 I'm a INTP (if you don't know what this is [check this.](https://www.16personalities.com/intp-personality)), so I tend to let my personal projects open and unfinished.  
 Insted of denying it, I'll accept it and do my best to evolve (meaning that I'll try to balance my personality traits).  
