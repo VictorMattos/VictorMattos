@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 I'm Victor Mattos,
 
 I'm a INTP (if you don't know what this is [check this.](https://www.16personalities.com/intp-personality)), so I tend to let my personal projects open and unfinished.  
@@ -9,7 +9,7 @@ Also, make no mistake. Despite having a focus problem, I also like to get as dee
 
 So with the disclaimer being said...
 
-# What you will find in my github repos?
+## What you will find in my github repos?
 
 The type of repos that you'll find here probably will be:
 * Course repositories - I do a lot of courses (really...) and sometimes you'll find repositories from these, but they wont be there for long.
