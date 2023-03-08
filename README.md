@@ -1,15 +1,17 @@
 # Hi there 👋
 I'm Victor Mattos,
 
-I'm a INTP (if you don't know what it means [check this.](https://www.16personalities.com/intp-personality)), so I tend to let my personal projects open and unfinished.  
-Insted of denying it, I'll accept it and do my best to evolve (meaning that I'll try to balance my personality traits).  
+Work in tech for more then a decade. Started as Web Developer, moved to Data Scientist (but the meaning of this title is probably not what you think), became a Data Solutions Architect and now I'm a Data Engineer.
 
-With that being said: I'll try to keep my repositories as clean as possible, but wont make any promisse.  
-Also, make no mistake. Despite having a focus problem, I also like to get as deep knowledge, in any subject, as I can possibly can (and I usually can a lot).
+## Personality
 
-So with the disclaimer being said...
+I'm a INTP (if you don't know what it means [check this.](https://www.16personalities.com/intp-personality)). Which means deph of knowladge is kinda my thing. But I also have ADHD, so I usually go for the next interesting thing.
+
+My main experience is to create data platforms/areas from scratch. I like to envision the future and create projects to reach it.
 
 ## What you will find in my github repos?
+
+I try to keep it clean, so usually delete or make it private repos that I don't see as being relevant anymore (deprecated techniques/tools).
 
 The type of repos that you'll find here probably will be:
 * Course repositories - I do a lot of courses (really...) and sometimes you'll find repositories from these, but they wont be there for long.
@@ -18,7 +20,7 @@ The type of repos that you'll find here probably will be:
 * Auxiliar projects - This type of repo will contain stuff that support other stuff, like dot files, general automation scripts and others...
 
 
-If you want to know more about me feel free to access my linkedin: https://www.linkedin.com/in/victor-rmattos/
+If you want to know more about me feel free to access my linkedin: https://www.linkedin.com/in/vicmattos/
 
 <!--
 **VictorMattos/VictorMattos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
